@@ -17,7 +17,6 @@ object Dependencies {
   val resolutionRepos = Seq(
     // For Snowplow
     "Snowplow Analytics Maven releases repo" at "http://maven.snplow.com/releases/",
-    "Snowplow Analytics Maven snapshot repo" at "http://maven.snplow.com/snapshots/",
     // For Scalazon
     "BintrayJCenter"                         at "http://jcenter.bintray.com",
     // For user-agent-utils
